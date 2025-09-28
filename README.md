@@ -44,10 +44,11 @@ https://www.computernetworkingnotes.com/ccna-study-guide/download-packet-tracer-
 Once you have downloaded the .deb package,install Packet Tracer using the following command:
 
 sudo dpkg -i packettracer_8.2.2_amd64.deb
+sudo apt install -f
 
 or
 
 sudo dpkg -i CiscoPacketTracer822_amd64_signed.deb
-
+sudo apt install -f
 
 enjoy ;)
