@@ -25,7 +25,9 @@ git clone https://github.com/fconidi/packet-tracer-debian-deps.git
 ### Step 2: Install Required Dependencies
 
 cd packet-tracer-debian-deps/
+
 sudo dpkg -i libgl1-mesa-glx_22.3.6-1+deb12u1_amd64.deb
+
 sudo apt install -f
 
 ### Step 3: Download Cisco Packet Tracer 8.2.2
@@ -39,10 +41,13 @@ https://www.computernetworkingnotes.com/ccna-study-guide/download-packet-tracer-
 
 ### Step 4: Install Cisco Packet Tracer
 
-Once you have downloaded the .deb package, navigate to the directory where the .deb file is located. Install Packet Tracer using the following command:
+Once you have downloaded the .deb package,install Packet Tracer using the following command:
 
 sudo dpkg -i packettracer_8.2.2_amd64.deb
+
 or
+
 sudo dpkg -i CiscoPacketTracer822_amd64_signed.deb
+
 
 enjoy ;)
