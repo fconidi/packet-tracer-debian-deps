@@ -1,6 +1,6 @@
 # Description
 
-This repository fixes for running Cisco Packet Tracer on Debian 13 codename Trixie and SysLinuxOS 13 codename Tirreno. 
+This repository fixes missing dependencies for running Cisco Packet Tracer on Debian 13 codename Trixie and SysLinuxOS 13 codename Tirreno. 
 
 > Note: The `.deb` package included in this repository are official Debian packages and are distributed under their respective licenses.
 
