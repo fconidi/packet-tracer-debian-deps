@@ -5,12 +5,10 @@ This repository fixes missing dependencies for running Cisco Packet Tracer on De
 > Note: The `.deb` package included in this repository are official Debian packages and are distributed under their respective licenses.
 
 
-
-## Tested ✅
+## Compatibility
 
 - [x] SysLinuxOS 13
 - [x] Debian 13
-
 
 
 ## Installation Steps
